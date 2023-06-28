@@ -40,3 +40,10 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+/projects
+.editorconfig
+angular.json
+package.json
+README.md 
+tsconfig.json
